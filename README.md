@@ -1,6 +1,6 @@
  <div>
   <a href="https://github.com/FelipeVittorazzi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeVittorazzi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeVittorazzi&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVittorazzi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
